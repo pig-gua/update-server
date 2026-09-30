@@ -1,0 +1,4 @@
+{
+  "host": { "version": "0.3.0", "url": "/packages/host-0.3.0.zip", "sha256": "18d37902ca6dfb8bf3aad54f9ca02c92ae7093f19a5c3cd6ee62f5d7a3fb33cf" },
+  "extension": { "version": "0.3.0", "url": "/packages/extension-0.3.0.zip", "sha256": "51ffe0ce16030020bcebcbc1482fecba62671ac0f47972fc6f8699aadd12feeb" }
+}

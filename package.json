@@ -1,0 +1,10 @@
+{
+  "name": "update-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "版本检测与安装包分发服务 (零依赖)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
